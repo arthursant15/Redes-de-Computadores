@@ -1,0 +1,13 @@
+o que é uma rede? 
+Uma rede é um conjunto de dispositivos ligados que podem trocar informações entre si, além de compartilhar recursos e aplicativos.
+
+Partes que compõem uma rede: 
+Computadores cliente: também chamados de estações de trabalhos, é o computador do usuário final.
+Servidores: são os computadores que compartilham algum recurso como discos para armazenamento de dados ou impressoras. Em um servidor normalmente roda um sistema operacional de rede como windows server 2008 ou uma versão de Linux como o red hat oou ubuntu enterprise.
+Nesses servidores ficam também programas como o apache web server ou o Microsoft Exchange.
+Interfaces de rede: hoje computadores como desktop e notebooks vem de fabrica com uma "placa de rede" incorporada.
+Cabos: a maior parte das redes hoje utilizam um tipo de cabo de rede do tipo UTP, outras opções como cabo coaxial e fibra optica são encontradas de acordo com a necessidade da rede.
+Switches e roteadores: swiches ligam dispositivos entre si e roteadores conectam redes diferentes. Falaremos sobre eles em capítulos futuros.
+Redes sem fio: antenas, placa de rede para redes sem fio, pontos de acessos e outros dispositivos são encontrados facilmente hoje em dia.
+LAN(Local Area Network): É a internet local, ou seja é uma rede em que se é usado de maneira interna em uma única área, portanto que eles estejam interligados, como: roteador, switchs, hub(não mais), wireless, modem.
+WAN(Wide Area Network): É basicamente uma area de rede em tamanhos geograficamente distantes que consegue se conectar e conversar entre si.

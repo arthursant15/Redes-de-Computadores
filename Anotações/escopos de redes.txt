@@ -1,0 +1,6 @@
+O escopo de rede se refere ao tamanho ou alcance geográfico da rede
+Os principais escopos:
+LAN: Local Area Network
+MAN: Metropolita Area Network
+WAN: Wide Area Network
+PAN: P A Nda
