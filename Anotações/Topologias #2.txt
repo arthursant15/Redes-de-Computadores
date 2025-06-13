@@ -1,0 +1,8 @@
+Topologia 
+É a forma como os dispositivos ficam dispostos na rede, é o "desenho" da rede.
+As topologias mais comuns são: 
+Barramento: todos os dispositivos são ligados no mesmo cabo que precisa de uma terminação em cada uma das pontas.
+Anel: no desenho do vídeo os dados trafegam de maneira circular, apenas em uma direção passando por todos os dispositivo, essa topologia é usada com o cabo de fibra ótica. 
+Estrela: os dispositivos são conectados através de um dispositivo "concentrador", normalmente um switch ou roteador, uma das vantagens de se usar essa topologia é que ao algum cabo se romper ou alguma porta do switch queimar, nele não ira impedir o seu funcionamento, ao contrario dos demais modelos a cima.  
+Malha: nesse tipo de topologia, os nós possuem mais de uma conexão.
+Hibrida: Quando mais de uma topologia é usada na mesma rede, por exemplo, "barramento-estrela".

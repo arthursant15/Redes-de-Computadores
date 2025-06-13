@@ -1,0 +1,13 @@
+Modelo OSI
+
+O modelo OSI(Open Systems Interconnection) descreve as regras que padronizam os diversos componentes em uma rede para que os dispositivos consigam se comunicar.
+
+O modelo OSI é dividido em siete camadas: 
+
+1.física: Como a parte física funciona.
+2.enlace de dados: 
+3.rede
+4.transporte
+5.sessão
+6.apresentação
+7.aplicação
