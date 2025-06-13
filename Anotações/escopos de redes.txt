@@ -1,6 +1,6 @@
 O escopo de rede se refere ao tamanho ou alcance geográfico da rede
 Os principais escopos:
-LAN: Local Area Network
-MAN: Metropolita Area Network
-WAN: Wide Area Network
-PAN: P A Nda
+LAN (Local Area Network)::Ela é o que se denomina em uma área local, como escritório, edifícios, campus e até mesmo residência, ela é caracterizada por uma rede privada, interligando assim área em especifico. As principais tecnologia para a LAN são: ethernet, IEEE 802.11(WAN - rede wireless local, rede wi-fi, rede sem fio).
+MAN (Metropolita Area Network): Ela é um escopo de rede intermediário  
+WAN: (Wide Area Network)
+PAN: (Personal Area Network)
